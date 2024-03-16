@@ -138,10 +138,6 @@ li header h4 {
         display: none;
     }
 
-    .card ul li:nth-child(2) {
-        background-color: yellow;
-    }
-
     .card ul li:nth-child(2)::after {
         content: "👍";
     }
